@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ParamWithValueList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <version>20080502</version>
+  <parameterTypes>
+    <ParamType>
+      <typeName>Inventor</typeName>
+      <typeCode>0</typeCode>
+    </ParamType>
+    <ParamType>
+      <typeName>String</typeName>
+      <typeCode>1</typeCode>
+    </ParamType>
+    <ParamType>
+      <typeName>Boolean</typeName>
+      <typeCode>2</typeCode>
+    </ParamType>
+  </parameterTypes>
+  <parameters>
+    <ParamWithValue>
+      <name>camInnerDiam</name>
+      <typeCode>in</typeCode>
+      <value>10 in + ( 3 in / 8 ul )</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>camOuterDiam</name>
+      <typeCode>in</typeCode>
+      <value>12 in - ( 3 in / 8 ul )</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>oneThird</name>
+      <typeCode>deg</typeCode>
+      <value>120 deg</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d3</name>
+      <typeCode>deg</typeCode>
+      <value>oneThird</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d4</name>
+      <typeCode>deg</typeCode>
+      <value>90.00 deg</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d5</name>
+      <typeCode>deg</typeCode>
+      <value>90.00 deg</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>camDiam</name>
+      <typeCode>in</typeCode>
+      <value>1 in / 4 ul</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>firstCamRadius</name>
+      <typeCode>in</typeCode>
+      <value>camInnerDiam / 2 ul</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d10</name>
+      <typeCode>deg</typeCode>
+      <value>90.00 deg</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d11</name>
+      <typeCode>in</typeCode>
+      <value>camDiam</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>secondCamRadius</name>
+      <typeCode>in</typeCode>
+      <value>camInnerDiam / 2 ul</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>xDiam</name>
+      <typeCode>in</typeCode>
+      <value>camDiam</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>xRadius</name>
+      <typeCode>in</typeCode>
+      <value>camInnerDiam / 2 ul</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>singleCamAngle</name>
+      <typeCode>deg</typeCode>
+      <value>15 deg</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d24</name>
+      <typeCode>deg</typeCode>
+      <value>singleCamAngle</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d25</name>
+      <typeCode>deg</typeCode>
+      <value>90.00 deg</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d26</name>
+      <typeCode>in</typeCode>
+      <value>camOuterDiam / 2 ul</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d27</name>
+      <typeCode>in</typeCode>
+      <value>camDiam</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d28</name>
+      <typeCode>deg</typeCode>
+      <value>90.00 deg</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d29</name>
+      <typeCode>in</typeCode>
+      <value>camDiam</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d30</name>
+      <typeCode>in</typeCode>
+      <value>camOuterDiam / 2 ul</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d44</name>
+      <typeCode>deg</typeCode>
+      <value>90.00 deg</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d45</name>
+      <typeCode>in</typeCode>
+      <value>camDiam</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d46</name>
+      <typeCode>in</typeCode>
+      <value>camOuterDiam / 2 ul</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d60</name>
+      <typeCode>deg</typeCode>
+      <value>singleCamAngle</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d61</name>
+      <typeCode>deg</typeCode>
+      <value>singleCamAngle</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d62</name>
+      <typeCode>deg</typeCode>
+      <value>singleCamAngle</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d63</name>
+      <typeCode>deg</typeCode>
+      <value>singleCamAngle</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d64</name>
+      <typeCode>deg</typeCode>
+      <value>90.00 deg</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d65</name>
+      <typeCode>in</typeCode>
+      <value>camDiam</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d66</name>
+      <typeCode>in</typeCode>
+      <value>camOuterDiam / 2 ul</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d67</name>
+      <typeCode>deg</typeCode>
+      <value>90.00 deg</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d68</name>
+      <typeCode>in</typeCode>
+      <value>camDiam</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d69</name>
+      <typeCode>in</typeCode>
+      <value>camOuterDiam / 2 ul</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d70</name>
+      <typeCode>deg</typeCode>
+      <value>90.00 deg</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d71</name>
+      <typeCode>in</typeCode>
+      <value>camDiam</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d72</name>
+      <typeCode>in</typeCode>
+      <value>camOuterDiam / 2 ul</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d113</name>
+      <typeCode>deg</typeCode>
+      <value>45 deg</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d114</name>
+      <typeCode>deg</typeCode>
+      <value>90.00 deg</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d115</name>
+      <typeCode>in</typeCode>
+      <value>camDiam</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d116</name>
+      <typeCode>in</typeCode>
+      <value>camOuterDiam / 2 ul</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d119</name>
+      <typeCode>deg</typeCode>
+      <value>90.00 deg</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d120</name>
+      <typeCode>in</typeCode>
+      <value>camOuterDiam / 2 ul</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d121</name>
+      <typeCode>in</typeCode>
+      <value>camDiam</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d122</name>
+      <typeCode>deg</typeCode>
+      <value>90.00 deg</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d123</name>
+      <typeCode>in</typeCode>
+      <value>camOuterDiam / 2 ul</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d124</name>
+      <typeCode>in</typeCode>
+      <value>camDiam</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d125</name>
+      <typeCode>ul</typeCode>
+      <value>0.000 ul</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d126</name>
+      <typeCode>deg</typeCode>
+      <value>90.00 deg</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d127</name>
+      <typeCode>ul</typeCode>
+      <value>0.000 ul</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d128</name>
+      <typeCode>deg</typeCode>
+      <value>90.00 deg</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d129</name>
+      <typeCode>ul</typeCode>
+      <value>0.000 ul</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d130</name>
+      <typeCode>deg</typeCode>
+      <value>90.00 deg</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d131</name>
+      <typeCode>ul</typeCode>
+      <value>0.000 ul</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d132</name>
+      <typeCode>deg</typeCode>
+      <value>90.00 deg</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d133</name>
+      <typeCode>ul</typeCode>
+      <value>0.000 ul</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d134</name>
+      <typeCode>deg</typeCode>
+      <value>90.00 deg</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d135</name>
+      <typeCode>ul</typeCode>
+      <value>0.000 ul</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d136</name>
+      <typeCode>deg</typeCode>
+      <value>90.00 deg</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d137</name>
+      <typeCode>ul</typeCode>
+      <value>0.000 ul</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d138</name>
+      <typeCode>deg</typeCode>
+      <value>90.00 deg</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d139</name>
+      <typeCode>ul</typeCode>
+      <value>0.000 ul</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d140</name>
+      <typeCode>deg</typeCode>
+      <value>90.00 deg</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d141</name>
+      <typeCode>ul</typeCode>
+      <value>0.000 ul</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d142</name>
+      <typeCode>deg</typeCode>
+      <value>90.00 deg</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d143</name>
+      <typeCode>ul</typeCode>
+      <value>0.000 ul</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d144</name>
+      <typeCode>deg</typeCode>
+      <value>90.00 deg</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d145</name>
+      <typeCode>ul</typeCode>
+      <value>0.000 ul</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d146</name>
+      <typeCode>deg</typeCode>
+      <value>90.00 deg</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d147</name>
+      <typeCode>ul</typeCode>
+      <value>0.000 ul</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d148</name>
+      <typeCode>deg</typeCode>
+      <value>90.00 deg</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d149</name>
+      <typeCode>deg</typeCode>
+      <value>45 deg</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>ringOuterDiam</name>
+      <typeCode>in</typeCode>
+      <value>12.25 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>ringInnerDiam</name>
+      <typeCode>in</typeCode>
+      <value>9.75 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>ringThickness</name>
+      <typeCode>in</typeCode>
+      <value>1 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d153</name>
+      <typeCode>deg</typeCode>
+      <value>0.0 deg</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+  </parameters>
+</ParamWithValueList>

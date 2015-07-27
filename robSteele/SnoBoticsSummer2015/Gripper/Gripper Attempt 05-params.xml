@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ParamWithValueList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <version>20080502</version>
+  <parameterTypes>
+    <ParamType>
+      <typeName>Inventor</typeName>
+      <typeCode>0</typeCode>
+    </ParamType>
+    <ParamType>
+      <typeName>String</typeName>
+      <typeCode>1</typeCode>
+    </ParamType>
+    <ParamType>
+      <typeName>Boolean</typeName>
+      <typeCode>2</typeCode>
+    </ParamType>
+  </parameterTypes>
+  <parameters>
+    <ParamWithValue>
+      <name>d0</name>
+      <typeCode>in</typeCode>
+      <value>0.000 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d1</name>
+      <typeCode>in</typeCode>
+      <value>0.000 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>offsetToFrontOfAirCylinder</name>
+      <typeCode>in</typeCode>
+      <value>13 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d3</name>
+      <typeCode>in</typeCode>
+      <value>0.000 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d4</name>
+      <typeCode>in</typeCode>
+      <value>0.000 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d5</name>
+      <typeCode>in</typeCode>
+      <value>offsetToFrontOfAirCylinder</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d24</name>
+      <typeCode>in</typeCode>
+      <value>0.000 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d25</name>
+      <typeCode>in</typeCode>
+      <value>0.000 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d38</name>
+      <typeCode>in</typeCode>
+      <value>0.000 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d39</name>
+      <typeCode>in</typeCode>
+      <value>0.000 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d40</name>
+      <typeCode>in</typeCode>
+      <value>0.000 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d41</name>
+      <typeCode>in</typeCode>
+      <value>0.000 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d45</name>
+      <typeCode>in</typeCode>
+      <value>0.000 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d46</name>
+      <typeCode>in</typeCode>
+      <value>0.000 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d48</name>
+      <typeCode>in</typeCode>
+      <value>-2 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d50</name>
+      <typeCode>in</typeCode>
+      <value>0.000 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d51</name>
+      <typeCode>in</typeCode>
+      <value>0.000 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d52</name>
+      <typeCode>in</typeCode>
+      <value>0.000 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d53</name>
+      <typeCode>in</typeCode>
+      <value>0.000 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d54</name>
+      <typeCode>in</typeCode>
+      <value>0.000 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d55</name>
+      <typeCode>in</typeCode>
+      <value>-2 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d64</name>
+      <typeCode>in</typeCode>
+      <value>0 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d65</name>
+      <typeCode>in</typeCode>
+      <value>0 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d79</name>
+      <typeCode>in</typeCode>
+      <value>0 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d80</name>
+      <typeCode>in</typeCode>
+      <value>0 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d81</name>
+      <typeCode>in</typeCode>
+      <value>0 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d82</name>
+      <typeCode>in</typeCode>
+      <value>0 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d83</name>
+      <typeCode>in</typeCode>
+      <value>0 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d84</name>
+      <typeCode>in</typeCode>
+      <value>0 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d85</name>
+      <typeCode>in</typeCode>
+      <value>0.000 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d86</name>
+      <typeCode>in</typeCode>
+      <value>distanceForSupport</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>stopDistance</name>
+      <typeCode>in</typeCode>
+      <value>-4.75 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d88</name>
+      <typeCode>in</typeCode>
+      <value>0.000 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>distanceForSupport</name>
+      <typeCode>in</typeCode>
+      <value>-2.125 in + ( 0.75 in / 2 ul ) + 0.25 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d90</name>
+      <typeCode>in</typeCode>
+      <value>-4.75 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d91</name>
+      <typeCode>in</typeCode>
+      <value>0.000 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d92</name>
+      <typeCode>in</typeCode>
+      <value>0.000 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d93</name>
+      <typeCode>in</typeCode>
+      <value>0.000 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d94</name>
+      <typeCode>in</typeCode>
+      <value>0.000 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d95</name>
+      <typeCode>in</typeCode>
+      <value>0.000 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d96</name>
+      <typeCode>in</typeCode>
+      <value>0.000 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d97</name>
+      <typeCode>in</typeCode>
+      <value>0.000 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d98</name>
+      <typeCode>in</typeCode>
+      <value>0.000 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+  </parameters>
+</ParamWithValueList>
