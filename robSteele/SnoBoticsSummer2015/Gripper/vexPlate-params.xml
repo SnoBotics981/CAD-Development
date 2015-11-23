@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ParamWithValueList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <version>20080502</version>
+  <parameterTypes>
+    <ParamType>
+      <typeName>Inventor</typeName>
+      <typeCode>0</typeCode>
+    </ParamType>
+    <ParamType>
+      <typeName>String</typeName>
+      <typeCode>1</typeCode>
+    </ParamType>
+    <ParamType>
+      <typeName>Boolean</typeName>
+      <typeCode>2</typeCode>
+    </ParamType>
+  </parameterTypes>
+  <parameters>
+    <ParamWithValue>
+      <name>plateWidth</name>
+      <typeCode>in</typeCode>
+      <value>( slotLength * 2 ul ) + ( offsetForBracketHoles * 2 ul ) + ( edgeForSlot * 2 ul )</value>
+      <comment>Based on the slot length, offset for bracket, and edge.</comment>
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>plateHeight</name>
+      <typeCode>in</typeCode>
+      <value>5 in</value>
+      <comment>Height of the plate, a constant. But needs to be a dependent variable.</comment>
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>offsetForBracketHoles</name>
+      <typeCode>in</typeCode>
+      <value>0.5 in</value>
+      <comment>Positive in the direction of the holes from the center line.</comment>
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d2</name>
+      <typeCode>in</typeCode>
+      <value>offsetForBracketHoles</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d3</name>
+      <typeCode>in</typeCode>
+      <value>offsetForBracketHoles</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>slotWidth</name>
+      <typeCode>in</typeCode>
+      <value>0.5 in</value>
+      <comment>Constant for the slot width.</comment>
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>slotLength</name>
+      <typeCode>in</typeCode>
+      <value>3 in</value>
+      <comment>Constant for the length, based on the cylinder used.</comment>
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>verticalCenterLineOfSlot</name>
+      <typeCode>in</typeCode>
+      <value>1.0 in</value>
+      <comment>?</comment>
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>cylinderDiameter</name>
+      <typeCode>in</typeCode>
+      <value>0.5 in</value>
+      <comment>Constant for the cylinder used.</comment>
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>centerLineOfBracket</name>
+      <typeCode>in</typeCode>
+      <value>0.69 in</value>
+      <comment>?</comment>
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d4</name>
+      <typeCode>in</typeCode>
+      <value>verticalCenterLineOfSlot</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d5</name>
+      <typeCode>in</typeCode>
+      <value>verticalCenterLineOfSlot</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>horizontalCenterLineOfSlot</name>
+      <typeCode>in</typeCode>
+      <value>( slotLength / 2 ul ) + offsetForBracketHoles</value>
+      <comment>?</comment>
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d6</name>
+      <typeCode>in</typeCode>
+      <value>horizontalCenterLineOfSlot</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d7</name>
+      <typeCode>in</typeCode>
+      <value>horizontalCenterLineOfSlot</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d9</name>
+      <typeCode>in</typeCode>
+      <value>slotWidth</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d10</name>
+      <typeCode>in</typeCode>
+      <value>slotLength</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d11</name>
+      <typeCode>in</typeCode>
+      <value>plateWidth / 2 ul</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d12</name>
+      <typeCode>in</typeCode>
+      <value>plateHeight / 2 ul</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>plateThickness</name>
+      <typeCode>in</typeCode>
+      <value>1 in / 4 ul</value>
+      <comment>Constant for the plate thickness</comment>
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d13</name>
+      <typeCode>in</typeCode>
+      <value>plateThickness</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d14</name>
+      <typeCode>deg</typeCode>
+      <value>0.0 deg</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>edgeForSlot</name>
+      <typeCode>in</typeCode>
+      <value>0.5 in</value>
+      <comment>Distance from the end of the slot to the end of the plate.</comment>
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d15</name>
+      <typeCode>in</typeCode>
+      <value>plateWidth / 2 ul</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d16</name>
+      <typeCode>in</typeCode>
+      <value>plateHeight / 2 ul</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+  </parameters>
+</ParamWithValueList>
