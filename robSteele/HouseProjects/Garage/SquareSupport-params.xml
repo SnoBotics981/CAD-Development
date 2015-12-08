@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ParamWithValueList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <version>20080502</version>
+  <parameterTypes>
+    <ParamType>
+      <typeName>Inventor</typeName>
+      <typeCode>0</typeCode>
+    </ParamType>
+    <ParamType>
+      <typeName>String</typeName>
+      <typeCode>1</typeCode>
+    </ParamType>
+    <ParamType>
+      <typeName>Boolean</typeName>
+      <typeCode>2</typeCode>
+    </ParamType>
+  </parameterTypes>
+  <parameters>
+    <ParamWithValue>
+      <name>bottomHoleDiam</name>
+      <typeCode>in</typeCode>
+      <value>3 in / 8 ul</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>width</name>
+      <typeCode>in</typeCode>
+      <value>1.5 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>height</name>
+      <typeCode>in</typeCode>
+      <value>heightOfBottomHole + deltaBottomToTop + heightOfTopHole</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>heightOfBottomHole</name>
+      <typeCode>in</typeCode>
+      <value>( bottomHoleDiam / 2 ul ) + ( 1 in / 4 ul )</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>deltaBottomToTop</name>
+      <typeCode>in</typeCode>
+      <value>1.0 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>heightOfTopHole</name>
+      <typeCode>in</typeCode>
+      <value>( bottomHoleDiam / 2 ul ) + ( 1 in / 4 ul )</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d0</name>
+      <typeCode>in</typeCode>
+      <value>width</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d1</name>
+      <typeCode>in</typeCode>
+      <value>heightOfBottomHole</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d2</name>
+      <typeCode>deg</typeCode>
+      <value>0.0 deg</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d3</name>
+      <typeCode>in</typeCode>
+      <value>bottomHoleDiam</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d5</name>
+      <typeCode>deg</typeCode>
+      <value>0.0 deg</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+  </parameters>
+</ParamWithValueList>
