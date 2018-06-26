@@ -1,5 +1,7 @@
+*.g      binary
 *.gif    binary
 *.iam    binary
+*.ipj    binary
 *.ipt    binary
 *.jpg    binary
 *.PDF    binary
@@ -7,8 +9,8 @@
 *.STEP   binary
 *.step   binary
 *.stp    binary
-*.zip    binary
-*.g      binary
 *.x3g    binary
+*.zip    binary
+
 
 
