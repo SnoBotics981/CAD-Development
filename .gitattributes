@@ -11,7 +11,9 @@
 *.step   binary
 *.stp    binary
 *.x3g    binary
+*.xls    binary
 *.zip    binary
+
 
 
 
