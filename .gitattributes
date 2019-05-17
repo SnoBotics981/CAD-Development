@@ -13,7 +13,7 @@
 *.x3g    binary
 *.xls    binary
 *.zip    binary
-
+*.FCStd* binary
 
 
 
