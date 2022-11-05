@@ -1,0 +1,25 @@
+Each step takes approximately 1/20 second.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+After shooing a frisbee it would take approximately 1/2 second to move all of the frisbees down one slot - one at a time.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Full load and ready to shoot,,,,Shot,,,,Loading Level 1 into chamber,,,,After loading level 1,,,,Advance level 2 to 1,,,,Done with advancing level 2 to 1,,,,Advance level 3 to 2,,,,Done with advance level 3 to 2,,,,Advance level 4 to 3,,,,Done with advancing level 4 to 3,,,,New one from field,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Level 4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Empty,,,,,
+,Cam,Closed,,Closed,,Closed,,Closed,,Closed,,Closed,,Closed,,Closed,,Closed,,Closed,,Closed,,Closed,,Closed,,Closed,,Closed,,Closed,,Open,,Open,,Closed,,Closed,,Closed,,Closed
+Level 3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Empty,,,,,,,,,,,,,
+,Cam,Closed,,Closed,,Closed,,Closed,,Closed,,Closed,,Closed,,Closed,,Closed,,Closed,,Closed,,Closed,,Open,,Open,,Closed,,Closed,,Closed,,Closed,,Closed,,Closed,,Closed,,Closed
+Level 2,,,,,,,,,,,,,,,,,,,,,,,Empty,,,,,,,,,,,,,,,,,,,,,
+,Cam,Closed,,Closed,,Closed,,Closed,,Closed,,Closed,,Closed,,Closed,,Open,,Open,,Closed,,Closed,,Closed,,Closed,,Closed,,Closed,,Closed,,Closed,,Closed,,Closed,,Closed,,Closed
+Level 1,,,,,,,,,,,,,,,Empty,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Cam,Closed,,Closed,,Closed,,Closed,,Open,,Open,,Closed,,Closed,,Closed,,Closed,,Closed,,Closed,,Closed,,Closed,,Closed,,Closed,,Closed,,Closed,,Closed,,Closed,,Closed,,Closed
+Level 0,,,,,,,Empty,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Ready to shoot,,,,Shot,,,,After having shot,,,,Ready to shoot,,,,Ready to shoot,,,,Ready to shoot,,,,Ready to shoot,,,,Ready to shoot,,,,Ready to shoot,,,,Ready to shoot,,,,Ready to shoot,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ready for new frisbee,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Legend:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Closed,The iris mechanism is closed.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Open,The iris mechanism is open allowing the frisbee to drop,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,A frisbee in the magazine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Empty,An empty slot in the magazine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,A frisbee dropping down in the magazine to the next level,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
